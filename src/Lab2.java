@@ -19,9 +19,9 @@ public class Lab2 {
 		even = "Even.";
 		oddAndOver60 = "Odd and over 60.";
 
-		//System.out.println("Hi please enter your name: ");
-		//name = scan.next();
-		//System.out.println("Hi " + name + "!");
+		System.out.println("Hi please enter your name: ");
+		name = scan.next();
+		System.out.println("Hi " + name + "!");
 
 		//This is the begining loop. This states that if letter is equal to y, it will move to asking for the integer you want to choose.
 		while (letter == 'y') {
